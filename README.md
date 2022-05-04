@@ -23,18 +23,6 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/dashabhilash/dashabhilash/blob/main/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:email.abhilashdash@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-
-**languages and tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -51,7 +39,7 @@ const abhi = {
  challenge: "I am challenging myself to be certified in all cloud platform"
 }
 ```
-
+- 💬 ask me about anything, i am happy to help;
 
 📈 my github stats
 

@@ -19,7 +19,7 @@
 hi, i'm [Abhilash Dash](https://www.linkedin.com/in/abhilash5788/), a passionate self-taught full stack web developer and a software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
+<img align="right" alt="GIF" src="https://github.com/dashabhilash/dashabhilash/blob/main/code.gif?raw=true" width="500" height="320" />
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -36,13 +36,12 @@ const abhi = {
  challenge: "I am challenging myself to be certified in all cloud platform"
 }
 ```
-<img align="right" alt="GIF" src="https://github.com/dashabhilash/dashabhilash/blob/main/code.gif?raw=true" width="500" height="320" />
 
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dashabhilash&show_icons=true&theme=gotham" alt="dashabhilash" />
 
-- 💬 ask me about anything, i am happy to help;
+💬 ask me about anything, i am happy to help;
 
 
 

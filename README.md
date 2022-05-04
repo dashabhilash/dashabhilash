@@ -35,17 +35,22 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```text
-Cloud   3 hrs 38 mins   ██████████████▒░░░░░░░░░░   56.94 %
-JavaScript   1 hr 33 mins    ██████░░░░░░░░░░░░░░░░░░░   24.36 %
-Microservice         1 hr 1 min      ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+```javascript
+const abhi = {
+  pronouns: "he" | "his",
+  code: [Java, Javascript, HTML, CSS, Python],
+  tools: [React, Node, Google Cloud, Kubernetes, Docker, Jenkins],
+  architecture: ["microservices", "event-driven", "spring mvc"],
+  interested: {
+                        technology: "cloud",
+                        tool: "devops",
+                        in: "travel"
+                      },
+ challenge: "I am challenging myself to be certified in all cloud platform"
+}
 ```
-
-<!--END_SECTION:waka-->
 
 
 📈 my github stats

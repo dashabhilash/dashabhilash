@@ -2,7 +2,7 @@
 <a href="https://www.instagram.com/imabhilash77/">
   <img align="left" alt="Abhilash's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://discord.gg/waVqPEFq">
   <img align="left" alt="Abhilash's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/tweet_dashabhi">

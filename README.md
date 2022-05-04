@@ -21,7 +21,7 @@ hi, i'm [Abhilash Dash](https://www.linkedin.com/in/abhilash5788/), a passionate
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/dashabhilash/dashabhilash/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/dashabhilash/dashabhilash/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:email.abhilashdash@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -46,15 +46,6 @@ Other        4 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 10 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 📈 my github stats
